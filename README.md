@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Erlingsen
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Programering
-- 💞️ I’m looking to collaborate on Ingenting
-- 📫 How to reach me Ikke
-- 😄 Pronouns: Norsk
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
